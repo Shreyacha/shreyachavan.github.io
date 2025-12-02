@@ -1,0 +1,6 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: [Shreya Chavan]
+description: [Highly skilled Android Developer with over [2.5 years ] of experience in designing, developing, and maintaining cutting-edge mobile applications. Adept at collaborating with cross-functional teams to drive project success. Passionate about staying up-to-date with the latest trends and technologies in the Android development ecosystem. Seeking a challenging position to leverage my skills and contribute to the creation of cutting-edge mobile applications.]
+logo: /images/hs.jpg
